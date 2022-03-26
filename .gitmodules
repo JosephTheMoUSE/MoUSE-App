@@ -1,0 +1,6 @@
+[submodule "MoUSE"]
+	path = MoUSE
+	url = https://github.com/JosephTheMoUSE/MoUSE
+[submodule "MoUSE-GUI"]
+	path = MoUSE-GUI
+	url = https://github.com/JosephTheMoUSE/MoUSE-GUI
